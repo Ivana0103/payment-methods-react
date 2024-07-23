@@ -24,7 +24,7 @@ const Contact = () => {
       </section>
          <div>
           <h2 className={styles.heading2}>
-            You can fin us here!
+            You can find us here!
           </h2>
          </div>
         <div className='map-responsive'>
